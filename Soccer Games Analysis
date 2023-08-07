@@ -1,3 +1,6 @@
+/* https://www.kaggle.com/code/dimarudov/data-analysis-using-sql/notebook 
+SQL request based on this course */
+
 -- List of France Match during the 2009/2010 soccer season
 
 SELECT C.NAME AS COUNTRY,  L.NAME AS LEAGUE_NAME, M.SEASON, M.DATE, 
